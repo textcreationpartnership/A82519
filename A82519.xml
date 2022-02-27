@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The agreement between the commissioners of Parliament, and his excellencie Sr. Thomas Fairfax, and his chief officers, for disbanding all the supernumerarie forces of this kingdom, for taking off of free-quarter, and for drawing all the Army into the severall garrisons of his kingdome. Reported by the said commissioners to the House of Commons, on friday the 17. of Decemb. instant. And printed for the generall satisfaction of the Kingdom. Also a petition from the farmers of the county of Surrey : and his Excellencies answer thereunto, concerning the Landlords bearing equall burthen with the tennant in free-quarter. Imprimatur Gilb: Mabbot.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82519</idno>
+            <idno type="STC">Wing E1198</idno>
+            <idno type="STC">Thomason E420_2</idno>
+            <idno type="STC">ESTC R204662</idno>
+            <idno type="EEBO-CITATION">99864128</idno>
+            <idno type="PROQUEST">99864128</idno>
+            <idno type="VID">161357</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82519)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161357)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 66:E420[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The agreement between the commissioners of Parliament, and his excellencie Sr. Thomas Fairfax, and his chief officers, for disbanding all the supernumerarie forces of this kingdom, for taking off of free-quarter, and for drawing all the Army into the severall garrisons of his kingdome. Reported by the said commissioners to the House of Commons, on friday the 17. of Decemb. instant. And printed for the generall satisfaction of the Kingdom. Also a petition from the farmers of the county of Surrey : and his Excellencies answer thereunto, concerning the Landlords bearing equall burthen with the tennant in free-quarter. Imprimatur Gilb: Mabbot.</title>
+                  <author>Fairfax, Thomas Fairfax, Baron, 1612-1671.</author>
+                  <author>England and Wales. Army. Council.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert White,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Dec: 18".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Pay, allowances, etc. --  Early works to 1800.</term>
+               <term>Soldiers --  Billeting --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161357:1" rendition="simple:additions"/>
+            <p>THE AGREEMENT BETWEEN THE COMMISSIONERS OF PARLIAMENT, <hi>AND HIS EXCELLENCIE S<hi rend="sup">r.</hi> THOMAS FAIRFAX,</hi> And his chief Officers, for disbanding all the ſupernumerarie Forces of this Kingdom, for taking off of <hi>Free-Quarter,</hi> and for drawing all the Army into the ſeverall Garriſons of this <hi>KINGDOME.</hi>
+            </p>
+            <p>Reported by the ſaid Commiſsioners to the Houſe of <hi>Commons,</hi> on friday the 17. of <hi>Decemb.</hi> inſtant.</p>
+            <p>And printed for the generall ſatisfaction of the <hi>Kingdom.</hi>
+            </p>
+            <p>Alſo a Petition from the Farmers of the County of <hi>Surrey:</hi> And his Excellencies <hi>Anſwer</hi> thereunto, concerning the Landlords bearing equall burthen with the Tenant in Free-quarter.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Imprimatur</p>
+                        <closer>
+                           <signed>Gilb: Mabbot.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>Dec: 18</add> 
+               <hi>London,</hi> Printed for <hi>Robert White,</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:161357:2"/>
+            <pb n="1" facs="tcp:161357:2"/>
+            <opener>
+               <dateline>At <hi>Windſor</hi> 
+                  <date>the 14. of <hi>December,</hi> 1647.</date>
+               </dateline>
+            </opener>
+            <head>At a meeting of the <hi>Generall,</hi> and generall Coun<g ref="char:EOLhyphen"/>cell of the <hi>Army,</hi> with the <hi>Committee.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>He General and Councel doe declare, that as to ſuch Officers and ſouldiers, as have been added to the forces that are to be disbanded ſince the ſixth of <hi>Auguſt,</hi> required by the Order of the Houſe of <hi>Commons,</hi> to be immediately disbanded without money.</p>
+            <p>That as to any ſouldiers ſo added, the General above a week ſince, hath ordered the immediate diſcharging of all ſuch, as of divers of the ſcattered forces, and none to be entertained in their rooms, and will give the like Order for the reſt, and take care that it be obſerved.</p>
+            <p>And as to Officers put in ſince the ſaid ſixth of <hi>Auguſt,</hi> in any vacant rooms over any of the forces then in being, they were neceſſary to be put in, and are ſtill neceſſary to be continued for the ordering and government of the ſouldiery, till they disband, as they conceive.</p>
+            <p>As to the acceſſion of forces beyond the eſtabliſhment, the Gene<g ref="char:EOLhyphen"/>rall hath lately given ſtrict order againſt the ſame throughout the Ar<g ref="char:EOLhyphen"/>my, and is aſſured there is none, and he will take further care as is re<g ref="char:EOLhyphen"/>quired, that there ſhall be no ſuch acceſſion, and if there be, that they ſhall be immediately diſcharged without pay, or any oppreſſion of the Countrey by their quarter.</p>
+            <p>As to the disbanding of the ſupernumerarie forces mentioned in the Order, the generall Councel did declare, that they are no way againſt it, but to their utmoſt will further the buſineſs of disbanding the ſupernumeraries, either in the way propounded by the Vote, or any other way, and deſire it may be done within the time appointed by the Vote; but herein they deſire to be ſo underſtood, that before the disbanding of any forces ingaged with the Army, theſe things be drovided for.</p>
+            <p>That ſecuritie be ſetled for the Arreares of the ſouldiery, for which they will offer their further propoſition within two or three dayes.</p>
+            <p>That their Accounts be ſtated, and defalcation made for free quar<g ref="char:EOLhyphen"/>ter, according to the Votes of the Houſes, offered for the Army from <hi>Putney,</hi> and Debentures given for ſuch part of their Arrears, as
+<pb n="2" facs="tcp:161357:3"/>ſhall not be paid them at disbanding, and a Regiſter kept of the De<g ref="char:EOLhyphen"/>bentures.</p>
+            <p>That indempnity, maymed ſouldiers, widdowes, and orphans of ſouldiers ſlaine in the ſervice, freedome of Apprentices, and freedom from oppreſſion be provided for.</p>
+            <p>As to the pay of ſuch ſupernumeraries as have joyned with the Ar<g ref="char:EOLhyphen"/>my, the <hi>Parliament</hi> is deſired to provide ſo much money as they may, and particularly it is offered, that they would forecaſt for ſo much, as may make three moneths pay for all, and in the payment thereof, at disbanding, they would diſtribute the ſame in ſeverall proportions, to ſeverall parties, according to the ſeverall proportions of their Ar<g ref="char:EOLhyphen"/>rears as neer as may be, with reſpect to the timely dispatch of the ſervice, or that the <hi>Parliament</hi> agree with the private ſouldier of the ſupernumeraries by the lump, what to pay them in full of all their Ar<g ref="char:EOLhyphen"/>rears.</p>
+            <p>And thus it is preſumed, that the ſecurity for the remainder being good and clear, the <hi>Parliament</hi> providing what they can, and diſtribu<g ref="char:EOLhyphen"/>ting it with as much equality as they may (with reſpect to diſpatch) there will be no disſatisfaction upon the payment of what is received in hand.</p>
+            <p>As to the reſt of the ſupernumeraries, and in what places they are, the Generall and Councell declare, that they could not at preſent give us an exact account of them, or a more perfect one then was formerly tendred to the <hi>Commiſſioners</hi> at <hi>Putney,</hi> and it would require time to make it ſo perfect as might be expected, nor can they at preſent give a liſt of the forces that are to be kept up, but will apply themſelves to it, and will give a ſpeedy Account thereof, although it cannot be con<g ref="char:EOLhyphen"/>veniently declared, untill the Houſe hath given ſome reſolution to the matter of ſecurity, and things above mentioned, in order to disban<g ref="char:EOLhyphen"/>ding, and will take into the Army as many old ſouldiers as they can, both to ſupply the the Companies, and Regiments that want, and of ſuch as have been, or ſhall be diſplaced out of the old Regiments, to the end that the leſſe preſent money may pay off the ſupernumeraries</p>
+            <p>As to the removing of the Army, and going into Garriſons and Towns;</p>
+            <p>That the Army and all the ſupernumerary forces ſo not disbanded, ſhall within three weeks, if the <hi>Parliament</hi> think fit, be drawn into Gar<g ref="char:EOLhyphen"/>riſons, Towns, and Cities, ſo as from thenceforth to take off all free Quarter, and there, within fourteen days after, they may have conſtant pay for the time that they enter into thoſe places, untill they be reſpe<g ref="char:EOLhyphen"/>ctively disbanded.</p>
+         </div>
+         <div type="declaration">
+            <pb n="3" facs="tcp:161357:3"/>
+            <opener>
+               <dateline>Windſor <date>December 15.</date>
+               </dateline>
+            </opener>
+            <head>At the generall Councell of the ARMY.</head>
+            <p>AS to ſecurity for Arrears of the ſouldiery, we have formerly declared what we did deſire: and we have more lately expreſt what of that we have continued, to de<g ref="char:EOLhyphen"/>ſire by way of addition, to what the Parliament hath already voted, and we ſtill do deſire earneſtly the ſame, having good reaſon to beleeve, that all wee have de<g ref="char:EOLhyphen"/>ſired (being put together) is more in danger to fall ſhort of, then to exceed the Arrears of the whole ſouldiery.</p>
+            <p>And as to that of Deans and Chapters Lands, (whereup<g ref="char:EOLhyphen"/>on we underſtand the greateſt ſcruple lies) we have valu<g ref="char:EOLhyphen"/>ed it at above a Million, we think it might be neerer two; and we cannot offer any other in lieu of it, becauſe we know no other to be charged to ſuch a value, which would not neceſſitate the continuance of a burthen upon the people for the ſouldiers ſakes. But if the Parliament can finde any ſuch to redeem Deans and Chapters Lands withall, (after they are granted) it may be done, we deſi<g ref="char:EOLhyphen"/>ring them but for ſecurity.</p>
+            <closer>
+               <signed>By the appointment of his Excellency Sir <hi>Thomas Fairfax,</hi> and the general Councel of the Army. <hi>Io: Ruſhworth.</hi>
+               </signed>
+               <dateline>Windſor <date>15. Decemb. 1647.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:161357:4"/>
+            <head>To his Excellency Sir <hi>Tho: Fairfax.</hi> The humble Petition of the Farmers in the County of <hi>Surrey.</hi>
+            </head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat whereas your Petitioners, all rack-rented, have for nigh ſix years paſt, born the charge of free-quartering ſouldiers, without any deduction of Rent of the Landlords part, till now of late; ſince the Armies advance from London, this charge doubles, and with ſome of us, trebles our Rent; ſo decaying our eſtates, that little ſubſiſtence is (for our ſelves, for our families, and for thoſe many labourers imploy<g ref="char:EOLhyphen"/>ed by us) left us for the preſent; and for afterwards, likely none <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t all, unleſſe your Excellency relieve us. For your Petitioners, though rackt in their rents already, and unable to pay our rents, and to conti<g ref="char:EOLhyphen"/>nue to bear this charge of quartering, without allowance, are ſtill char<g ref="char:EOLhyphen"/>ged as Owners, and the Landlords as yet go free, and moſt of them re<g ref="char:EOLhyphen"/>fuſe abſolutely to bear any part of this charge, upon tender of their rents, unleſſe they ſhall be inforced thereunto by Ordinance of Parli<g ref="char:EOLhyphen"/>ament; and many of them have threatned, and ſome of them have al<g ref="char:EOLhyphen"/>ready commenced ſuits in Law to recover their full rents; and others of them, h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e ſealed Leaſes of Ejectment, for the outing of ſuch of their Tenants as deſired deduction of rent for this charge, which, as your Petitioners are informed, hath heretofore in many other parts of the Kingdome, been found by their Landlords, and whether their refuſall now in this kinde will cauſe the Tenants abſolutely to refuſe to Quarter, (as of neceſſity they muſt, if not hereby relieved,) which will certainly breed a generall diſturbance in the Kingdome; the con<g ref="char:EOLhyphen"/>ſequence whereof, we humbly leave to your Excellencies conſideration.</p>
+            <div type="part">
+               <head>The Premiſes conſidered,</head>
+               <p>MAy it pleaſe your Excellency (in reference to a Petition of this nature before, preſented to your Excellency by the Tenants of <hi>Blethingly</hi> in the ſaid County, whereupon they were promiſed relief, if refu<g ref="char:EOLhyphen"/>ſed
+<pb n="5" facs="tcp:161357:4"/>by the Landlords,) effectually to move the two Houſes of Parliament, that ſome ſpeedy courſe may be taken, that the ſeverall Landlords may for the times paſt, and for the future, bear the charge of Quartering, either wholly, (as in other taxes they have Ordered) or in ſome other proportion, as to your Excellencies wiſ<g ref="char:EOLhyphen"/>dome ſhall ſeem moſt meet, reſpecting the ſtock of the one, and the ſee ſimple eſtate of the other.</p>
+            </div>
+            <closer>And your Petitioners ſhall ever pray, &amp;c.</closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Mr. Speaker.</salute>
+            </opener>
+            <p>HAving received this incloſed Petition from divers Inha<g ref="char:EOLhyphen"/>bitants of the County of Surrey, who have of late been very much oppreſſed with quartering, by reaſon of the Kings being at Hampton-Court, and therefore neceſſitated to have the Horſe, appointed for the guard, to Quarter in thoſe parts, I thought fit to repreſent the ſame to the conſideration of the Houſe, humbly deſiring them to give ſome preſent Order for the relief of the Petitioners, who are only Tenants, and bear the ſole burthen of free-quarter, far above the rent which they pay to the Landlord, and yet have no allowance from their Landlords towards their ſaid charges: What Order the Houſe ſhall be pleaſed to give here<g ref="char:EOLhyphen"/>in, may be a rule for others in the like condition. I ſhall add no more at this time, but that I am,</p>
+            <closer>
+               <signed>Your moſt aſſured Friend and Servant, <hi>Tho: Fairfax.</hi>
+               </signed>
+               <dateline>Windſor <date>3. Decemb. 1647.</date>
+               </dateline>
+            </closer>
+            <trailer>For the Honourable <hi>William Lenthall</hi> Eſquire, Speaker of the Honourable Houſe of Commons.</trailer>
+         </div>
+         <div type="postscript">
+            <pb n="6" facs="tcp:161357:5"/>
+            <p>BY Letters from <hi>Yorke,</hi> dated Decemb. 11. We had this Intelligence; On Thurſday laſt, the Councel of War ſat in this City, and alſo yeſterdy ſeveral per<g ref="char:EOLhyphen"/>ſons were tryed for miſdemeanors. A foot ſouldier for being diſorderly, and not contented with his diet in his quarters, was adjudged to ſuffer a weeks impriſonment with bread and water, to get him a better ſtomack. Ano<g ref="char:EOLhyphen"/>ther ſouldier committing ſome miſdemeanors at <hi>Stoakeſley,</hi> in Cleveland, on a market day, in offering to pull one Mr. <hi>Liſle</hi> out of his ſhop, for refuſing to take clipt money, of<g ref="char:EOLhyphen"/>fering violence to him, and other diſorders, was cenſured for his offences, to be caſhierd the Army, to ſtand in the market place at <hi>Steakſley</hi> for two houres, with a paper, ſig<g ref="char:EOLhyphen"/>nifying his fault and puniſhment, during the time of the market, and afterwards to be whipt thorow the Town. One Corporal <hi>Rampſay</hi> in Lieutenant <hi>Foſters</hi> Troop, was, for kiling a man at his quarters, at Mr. <hi>Savils</hi> houſe at <hi>Mer<g ref="char:EOLhyphen"/>brough,</hi> condemned to be ſhot to death. Yeſterday certain rules and orders were agreed upon at the Councel of war, for the Regulation of the inequality of quartering, and better redreſſing of grievances of the countrey, and diſorders of the ſouldiers, which will ſuddenly be pub<g ref="char:EOLhyphen"/>liſhed.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
